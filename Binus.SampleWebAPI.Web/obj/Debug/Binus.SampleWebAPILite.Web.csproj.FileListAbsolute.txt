@@ -1,0 +1,579 @@
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.csprojResolveAssemblyReference.cache
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\csc.exe
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\vbc.exe
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll.config
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.pdb
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Lite.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Model.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Owin.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\WebGrease.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.pdb
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.pdb
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\RestSharp.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\csc.exe
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\vbc.exe
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll.config
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.pdb
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Lite.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Model.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Owin.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\WebGrease.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.pdb
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\RestSharp.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.xml
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.csprojResolveAssemblyReference.cache
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.dll
+C:\Users\Hendry\Desktop\SampleTemplate\MVCWebAPI\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.pdb
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\csc.exe
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\vbc.exe
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll.config
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.pdb
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Lite.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Model.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Owin.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\WebGrease.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.pdb
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\RestSharp.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.pdb
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.csprojResolveAssemblyReference.cache
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.pdb
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\csc.exe
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\vbc.exe
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll.config
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.pdb
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Lite.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Model.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Owin.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\WebGrease.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.pdb
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\RestSharp.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.pdb
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.csprojResolveAssemblyReference.cache
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.pdb
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\csc.exe
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\vbc.exe
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll.config
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.pdb
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Lite.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Model.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Owin.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\WebGrease.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.pdb
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\RestSharp.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.csprojAssemblyReference.cache
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.csproj.CopyComplete
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.pdb
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\csc.exe
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\vbc.exe
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll.config
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.pdb
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Lite.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Model.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Owin.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\WebGrease.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.pdb
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\RestSharp.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.pdb
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.xml
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.csprojAssemblyReference.cache
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.csproj.CoreCompileInputs.cache
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.csproj.CopyComplete
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.dll
+C:\Users\benik\Downloads\Tugas_ASP\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.pdb
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\csc.exe
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\vbc.exe
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll.config
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Web.pdb
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Lite.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.WebAPI.Model.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Owin.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\WebGrease.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Binus.SampleWebAPILite.Model.pdb
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Newtonsoft.Json.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\RestSharp.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Helpers.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Mvc.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Optimization.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.Razor.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Antlr3.Runtime.pdb
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\bin\MongoDB.Bson.xml
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.csprojAssemblyReference.cache
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.csproj.CoreCompileInputs.cache
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.csproj.CopyComplete
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.dll
+C:\Users\benik\Downloads\ASP.NET&WEBAPI_BennyKharisma_2301854403\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Web\obj\Debug\Binus.SampleWebAPILite.Web.pdb

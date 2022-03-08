@@ -1,0 +1,29 @@
+﻿@model Binus.SampleWebAPI.Web.ViewModels.HomeViewModel
+
+@{
+    ViewBag.Title = "Borrow Book";
+}
+
+<h2>View Borrowed Book</h2>
+
+<div class="container">
+    <br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Book Name</th>
+                <th>Book Desc</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var Item in Model.books)
+            {
+                <tr>
+                    <td>@Item.BookName</td>
+                    <td>@Item.BookDesc</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
